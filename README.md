@@ -1,2 +1,2 @@
 # Piano
-https://marco80512.github.io/Piano/
+https://github.com/Marco80512/Piano/edit/main/README.md
